@@ -1,4 +1,4 @@
-# Z-Stack Colocalization Statistical tool for 3D Slicer
+# Z-Stack Colocalization Statistical tool for 3D Slicer (ver. 1.0)
 ## Overview
 This is an extension for computing the percentage of colocalization(Spatial overlap between different channels) of Z-stack images.
 
