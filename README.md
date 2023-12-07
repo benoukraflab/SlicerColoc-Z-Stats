@@ -15,7 +15,7 @@ The license for this extension is [MIT] (https://github.com/benoukraflab/SlicerC
 * Run 3D Slicer, search for the 'Extension Wizard' extension in the 'Modules' search box at the top and open it. Then click the 'Select Extension' button located under the 'Extension Tools' collapsible button.
 * Select the path of this module to import it to Slicer(for example, C:\Users\Public\SlicerColoc-Z-Stats-main).
 
-## Tutorial
+## Brief Tutorial
 * Start 3D Slicer
 * Switch the scene view to '3D only'
 * Load a TIFF image: Click the 'Data' button or the 'Add Data' button under the 'File' tab, and click the 'Choose File(s) to Add' button to load the image.
